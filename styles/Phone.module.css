@@ -7,23 +7,24 @@
 }
 
 .boxPhone {
-    position: absolute;
+    height: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
-    top: 70%;
 }
 
 .phoneOrange {
-    position: relative;
-    left: 16%;
+    top: 600px;
+    position: absolute;
+    left: 15%;
     z-index: 1;
     filter: drop-shadow(50px 30px 150px rgba(46, 4, 4, 0.21));
 }
 
 .phoneWhite {
-    padding-top: 7%;
-    position: relative;
-    right: 16%;    
+    top: 600px;
+    padding-top: 3%;
+    position: absolute;
+    right: 15%;    
     filter: drop-shadow(50px 30px 150px rgba(46, 4, 4, 0.21));
 }

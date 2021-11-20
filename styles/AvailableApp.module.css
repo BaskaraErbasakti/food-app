@@ -1,41 +1,32 @@
 .jumbotronBackground {    
-    background: linear-gradient(0deg, rgba(23, 16, 16, 0.6), rgba(23, 16, 16, 0.6)), url('../public/jumbotron-background.jpg');
-    height: 619px;
+    background: linear-gradient(0deg, rgba(37, 43, 66, 0.4), rgba(37, 43, 66, 0.4)), url('../public/download-app-background.jpg');    
+    height: 516px;
     background-size: cover;
     background-position: center;
     position: relative;    
 }
 
-.titleFood {
-    display: flex;
-    justify-content: center;
-    color: white;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 24px;
-    line-height: 36px;
-    text-align: center;
-    letter-spacing: 0.1px;
-}
 
 .descFood {
     font-style: normal;
     font-weight: bold;
-    font-size: 58px;
-    line-height: 80px;
+    font-size: 40px;
+    line-height: 57px;
     text-align: center;
     letter-spacing: 0.2px;
     color: #FFFFFF;
+    margin-bottom: 5%;
+    margin-top: 3%;
 }
 
 .tagline {
-    font-size: 24px;
     font-style: normal;
     font-weight: 500;
+    font-size: 24px;
     line-height: 38px;
-    letter-spacing: 0.2px;
     text-align: center;
-    color: #F7F7F7;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
     height: 96px;
 }
 

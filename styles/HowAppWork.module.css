@@ -54,10 +54,9 @@
 
 .boxTextTengah {
     padding-left: 10%;
-    width: 50%;
+    width: 55%;
 }
 
 .boxImageTengah {
-    padding-left: 10%;
     filter: drop-shadow(50px 30px 150px rgba(46, 4, 4, 0.15));
 }

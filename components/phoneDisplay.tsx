@@ -7,12 +7,12 @@ import styles from '../styles/Phone.module.css'
 
 const PhoneDisplay = () => {
     return (
-        <div className={styles.boxPhone}>
+        <div className={styles.boxPhone}>        
             <div className={styles.phoneOrange}>
-                <Image src={PhoneOrange} alt="phone-orange" loading="lazy"/>
+                <Image src={PhoneOrange} alt="phone-orange" loading="lazy" width="780%" height="650%"/>
             </div>
             <div className={styles.phoneWhite}>
-                <Image src={PhoneWhite} alt="phone-white" loading="lazy" />
+                <Image src={PhoneWhite} alt="phone-white" loading="lazy" width="780%" height="650%"/>
             </div>
             
         </div>

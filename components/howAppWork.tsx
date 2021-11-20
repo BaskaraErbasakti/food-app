@@ -29,12 +29,12 @@ const HowAppWork = () => {
                     <h4 className={styles.descCreateAccount}>Shop for your favorite meals or drinks and enjoy while doing it.</h4>
                 </div>   
                 <div className={styles.boxImageTengah}>
-                    <Image src={ImageExplore} alt="create-account" height="650%" width="550%"/>
+                    <Image src={ImageExplore} alt="create-account" height="600%" width="550%"/>
                 </div>             
             </div>
             <div className="d-flex align-items-center mt-4">
                 <div className={styles.boxImage}>
-                    <Image src={ImageCheckout} alt="create-account" height="600%" width="500%"/>
+                    <Image src={ImageCheckout} alt="create-account" height="650%" width="500%"/>
                 </div>
                 <div className={styles.boxText}>
                     <h3 className={styles.titleCreateAccount}>Checkout</h3>
