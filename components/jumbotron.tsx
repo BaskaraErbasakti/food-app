@@ -11,6 +11,14 @@ const Jumbotron = () => {
                 </div>
                 <h4 className={styles.tagline}>Download the bella onoje’s food app now on</h4>
             </div>
+            <div className="container d-flex col-6 justify-content-evenly">
+                <button className={styles.boxPlaystore}>
+                    <p className={styles.textPlaystore}>Playstore</p>
+                </button>
+                <button className={styles.boxAppstore}>
+                    <p className={styles.textAppstore}>Appstore</p>
+                </button>
+            </div>
         </div>
 
 

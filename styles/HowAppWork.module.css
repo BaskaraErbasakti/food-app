@@ -1,0 +1,63 @@
+.titleAppWork {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 36px;
+    letter-spacing: 0.1px;
+    color: #000000;
+    opacity: 0.8;
+    align-items: center;
+    height: 80px;    
+    display: flex;
+}
+
+.titleCreateAccount {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.1px;
+    color: #FA4A0C;
+    display: flex;
+    align-items: center;
+}
+
+.commandCreateAccount {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+    display: flex;
+    align-items: center;
+}
+
+.descCreateAccount {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.2px;
+    color: #737373;
+    display: flex;
+    align-items: center;
+}
+
+.boxText {
+    width: 50%;
+}
+
+.boxImage {
+    filter: drop-shadow(50px 30px 150px rgba(46, 4, 4, 0.15));
+}
+
+.boxTextTengah {
+    padding-left: 10%;
+    width: 50%;
+}
+
+.boxImageTengah {
+    padding-left: 10%;
+    filter: drop-shadow(50px 30px 150px rgba(46, 4, 4, 0.15));
+}
